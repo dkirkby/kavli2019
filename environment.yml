@@ -23,9 +23,9 @@ dependencies:
   - pillow
   - libiconv       # needed by jupyter_contrib_nbextensions on some platforms
   - jupyter_contrib_nbextensions
-  - rise           # interactive slideshow extension
   - emcee
   - pytorch-cpu
   - torchvision-cpu
   - pip:
     - pyro-ppl       # pytorch probabilistic programming
+    - fastai         # pytorch best practices library
