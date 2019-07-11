@@ -16,3 +16,7 @@ jupyter notebook
 If you are interested in presenting your own notebooks as a slideshow, see [here](https://medium.com/@mjspeck/presenting-code-using-jupyter-notebook-slides-a8a3c3b59d67) for an overview.  There are two important caveats (as of July 2019):
  - The slideshow feature currently only works with the older `jupyter notebook` front end, not the new `jupyter lab`.
  - You cannot reliably edit or run cells from within the slideshow (the [RISE package](https://github.com/damianavila/RISE) is designed for this, but was not reliable for me).
+
+If find errors or have suggestions for improvement, please [create an issue](https://github.com/dkirkby/kavli2019/issues/new).
+
+ All material is (c) 2019 David Kirkby <dkirkby@uci.edu> and released under an MIT License.
