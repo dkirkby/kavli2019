@@ -4,7 +4,7 @@ Lectures by [David Kirkby](https://githcom.com/dkirkby) on machine learning for 
  - [Practical Bayesian Inference](https://nbviewer.jupyter.org/format/slides/github/dkirkby/kavli2019/blob/master/Lecture1.ipynb#/) [[notebook](https://nbviewer.jupyter.org/github/dkirkby/kavli2019/blob/master/Lecture1.ipynb)]
  - [Unsupervised Deep Learning](https://nbviewer.jupyter.org/format/slides/github/dkirkby/kavli2019/blob/master/Lecture2.ipynb#/) [[notebook](https://nbviewer.jupyter.org/github/dkirkby/kavli2019/blob/master/Lecture2.ipynb)]
 
-Videos of the orginal lectures are available in three parts: [part1](https://youtu.be/guIof73OQMU) | [part2](https://youtu.be/aiaEVvhvt_Q) | [part3](https://youtu.be/9BB66ZwaLZc)
+Videos of the orginal lectures are available in three parts: [part1](https://youtu.be/guIof73OQMU), [part2](https://youtu.be/aiaEVvhvt_Q), [part3](https://youtu.be/9BB66ZwaLZc)
 
 The slides are based on jupyter notebooks that contain all of the code used for the examples and plots (usually in cells that the slideshow skips).  Use the *[notebook]* links above to view these notebooks. To run the notebooks yourself, you can download them and create a conda environment with the necessary packages:
 ```
