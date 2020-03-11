@@ -1,8 +1,10 @@
 # Kavli Summer Program in Astrophysics Lectures
 
-Lectures by [David Kirkby](https://githcom.com/dkirkby) on machine learning for the [Kavli Summer Program in Astrophysics](https://kspa.soe.ucsc.edu/) hosted by UC Santa Cruz in July 2019:
+Lectures by [David Kirkby](https://githcom.com/dkirkby) on machine learning for the [Kavli Summer Program in Astrophysics](https://kspa.soe.ucsc.edu/archives/2019) hosted by UC Santa Cruz in July 2019:
  - [Practical Bayesian Inference](https://nbviewer.jupyter.org/format/slides/github/dkirkby/kavli2019/blob/master/Lecture1.ipynb#/) [[notebook](https://nbviewer.jupyter.org/github/dkirkby/kavli2019/blob/master/Lecture1.ipynb)]
  - [Unsupervised Deep Learning](https://nbviewer.jupyter.org/format/slides/github/dkirkby/kavli2019/blob/master/Lecture2.ipynb#/) [[notebook](https://nbviewer.jupyter.org/github/dkirkby/kavli2019/blob/master/Lecture2.ipynb)]
+
+Videos of the orginal lectures are available in three parts: [part1](https://youtu.be/guIof73OQMU) | [part2](https://youtu.be/aiaEVvhvt_Q) | [part3](https://youtu.be/9BB66ZwaLZc)
 
 The slides are based on jupyter notebooks that contain all of the code used for the examples and plots (usually in cells that the slideshow skips).  Use the *[notebook]* links above to view these notebooks. To run the notebooks yourself, you can download them and create a conda environment with the necessary packages:
 ```
